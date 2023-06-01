@@ -19,7 +19,7 @@ headerTemplate.innerHTML = `
   </style>
   <header>
     <nav>
-      <a href="/">shaders with p5.js</a>
+      <a href="/shaders-with-p5">shaders with p5.js</a>
     </nav>
   </header>
 `;
